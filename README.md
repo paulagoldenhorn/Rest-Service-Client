@@ -8,3 +8,7 @@ Características principales:
 
 - Implementación del paradigma de programación orientada a objetos, utilizando conceptos como: herencia, clases abstractas, interfaces, encapsulamiento.
 - Envío de solicitudes HTTP, desarrollado con el paquete java.net.http.
+
+Diagrama de Clases:
+
+![UML_RestServiceClient](https://github.com/user-attachments/assets/c67704b1-26cc-460b-b1b1-f4975287de78)
