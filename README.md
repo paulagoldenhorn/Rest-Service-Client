@@ -6,9 +6,5 @@ Proyecto Java desarrollado siguiendo una arquitectura en capas:
 
 Características principales:
 
-- Implementación del paradigma de programación orientada a objetos, utilizando conceptos como: 
-  > Herencia.
-  > Clases abstractas.
-  > Interfaces.
-  > Encapsulamiento.
+- Implementación del paradigma de programación orientada a objetos, utilizando conceptos como: herencia, clases abstractas, interfaces, encapsulamiento.
 - Envío de solicitudes HTTP, desarrollado con el paquete java.net.http.
